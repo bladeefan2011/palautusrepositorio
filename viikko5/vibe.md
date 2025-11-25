@@ -1,0 +1,1 @@
+Copilot päätyi hyvään ja toimivaan ratkaisuun. Koodi oli selkeää, parempaa kuin omani. Kaikki funktiot ovat ymmärrettäviä. Opin kyllä uutta, esim oikeaoppisesta koodin ulkoasusta. Tämä oli mielenkiintoinen projekti. 
